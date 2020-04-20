@@ -2,7 +2,7 @@ public class InsertionSort {
     public static void main(String[] args) {
         int j ;
         int k ;
-        int arr[] = {30, 60, 10, 20, 40, 50};
+        int arr[] = {40, 80, 20, 33, 77, 65};
         for(int i =1;i<arr.length;i++) {
             j = arr[i];
             k = i - 1;
